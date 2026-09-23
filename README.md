@@ -1,2 +1,0 @@
-# BIMPILOTS
-BIM PILOTS Automation
